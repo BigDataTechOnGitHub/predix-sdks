@@ -36,5 +36,5 @@
 	branch = master
 [submodule "blobstore-bootstrap"]
 	path = blobstore-bootstrap
-	url = https://github.build.ge.com/adoption/blobstore-bootstrap.git
+	url = https://github.com/PredixDev/blobstore-bootstrap.git
 	branch = master
