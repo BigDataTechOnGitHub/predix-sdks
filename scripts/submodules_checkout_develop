@@ -2,6 +2,8 @@ git status
 pwd
 cd asset-bootstrap
 git checkout develop
+cd ../blobstore-bootstrap
+git checkout develop
 cd ../ext-interface
 git checkout  develop
 cd ../predix-microservice-cf-jsr
